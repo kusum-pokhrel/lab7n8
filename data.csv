@@ -1,0 +1,11 @@
+age,gender,education_level,income,experience_years,employed
+22,Male,Bachelor,30000,1,Yes
+25,Female,Master,45000,3,Yes
+47,Female,PhD,72000,15,Yes
+35,Male,Bachelor,50000,8,Yes
+52,Male,Master,68000,20,No
+46,Female,PhD,75000,18,Yes
+29,Male,Bachelor,42000,4,Yes
+41,Female,Master,61000,12,No
+33,Female,Bachelor,48000,6,Yes
+38,Male,PhD,70000,10,Yes
